@@ -1,4 +1,4 @@
 # apna-college-
 first repo
 <br>
-author-abjot
+author-abjot singh
